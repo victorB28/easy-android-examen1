@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidFacil</string>
+    <string name="title_activity_first_topic">Primer Tema</string>
+    <string name="title_activity_fourth_topic">Cuarto Tema</string>
+    <string name="title_activity_second_topic">Segundo Tema</string>
+    <string name="title_activity_third_topic">Tercer Tema</string>
+</resources>
