@@ -4,4 +4,9 @@
     <string name="title_activity_fourth_topic">Cuarto Tema</string>
     <string name="title_activity_second_topic">Segundo Tema</string>
     <string name="title_activity_third_topic">Tercer Tema</string>
+     <string name="introduccion">Android es un sistema operativo basado en el núcleo Linux. Fue diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tablets o tabléfonos.</string>
+    <string name="historia">Inicialmente desarrollado por Android inc que fue comprada por google en 2005. Android fue presentado en 2007 junto la fundación del Open Handset Alliance (un consorcio de compañías de hardware, software y telecomunicaciones) para avanzar en los estándares abiertos de los dispositivos móviles.10 El primer móvil con el sistema operativo Android fue el HTC Dream y se vendió en octubre de 2008.</string>
+    <string name="kernel">El kernel funciona como intermediaro entre el software y el hardware. Android utiliza Linux como kernel o núcleo y en esté núcleo está el denominado Dalvik o ART, una máquina virtual.</string>
+    <string name="arquitectura">Aplicaciones: Contiene las incluidas por defecto y las que ñade el usuario. Framework: Representa el conjuto de herramientas de desarrollo Librerias: Proporcionan a android la mayor parte de sus capacidades mas caracteristicas. Run time: Se situa en el entorno de ejecucion. Los constituyen las core libraries.</string>
+
 </resources>
