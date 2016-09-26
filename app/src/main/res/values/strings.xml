@@ -9,4 +9,9 @@
     <string name="title_activity_second_topic">SecondTopic</string>
     <string name="title_activity_third_topic">ThirdTopic</string>
     <string name="title_activity_fourth_topic">FourthTopic</string>
+    
+    <string name="introduccion">Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.</string>
+    <string name="historia">  Initially developed by Android, Inc., which Google bought in 2005, Android was unveiled in 2007 along with the founding of the Open Handset Alliance ( a consortium of hardware, software, and telecommunication companies devoted to advancing open standards for mobile devices) the first Android device was htc and was unveiled in october </string>
+    <string name="kernel">The kernel goes between  software and hardware. Android uses Linux as the kernel and the apps run in a virtual machine, either Dalvik or ART.</string>
+    <string name="arquitectura">Aplications: It includes the default apps and those than the user adds. Framework: It´s the developers tools. Libraries: It gives to Android the most of their capacities and characteristics. Run time: Those are located in the execute back. Those are constituided core libraries.</string>    
 </resources>
