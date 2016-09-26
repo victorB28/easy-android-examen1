@@ -51,6 +51,8 @@ public class FourthTopic extends AppCompatActivity {
             switch(position) {
                 case 0:
                     return FirstFragmentTopic4.newInstance();
+                case 1:
+                    return SecondFragmentTopic4.newInstance();
 
             }
             return null;
@@ -59,13 +61,15 @@ public class FourthTopic extends AppCompatActivity {
         @Override
         public int getCount() {
             // Show 3 total pages.
-            return 1;
+            return 2;
         }
 
         @Override
         public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
+                    return "SECTION 1";
+                case 1:
                     return "SECTION 1";
             }
             return null;
